@@ -60,3 +60,6 @@ Waffle also offers the option to embed a throughput graph to your README. The gr
 ### Questions?
 
 Check out our [FAQs](https://github.com/waffleio/waffle.io/wiki/FAQs) or feel free to [contact us](mailto:support@waffle.io).
+
+
+ 
